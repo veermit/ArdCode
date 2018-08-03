@@ -6,7 +6,7 @@ void setup() {
 
 void loop() {
 
-  bool bPinVal = false;
+  bool bPinVal = true;
 
   unsigned long ulStartTime = 0;
   unsigned long ulStopTime = 0;
